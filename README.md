@@ -1,67 +1,58 @@
 # Base de datos de Bienes y raices
 
-## Headers
-
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
+## pasos
+# iniciar sesion
+## Registrarse
+###### Acerca de y salir
 
 ## Emphasis
 
-*This text will be italic*  
+*hay 2 varras ,donde  primero tienes que elegir que tipo de usuario que deseas ser como puede ser (administrador, cliente o vendedor) ,el usuario ya registrado tener la posibilidad  de crear su nombre y su contraseña para poder iniciar sesion* 
 _This will also be italic_
 
-**This text will be bold**  
+**Este permite al  usuario obtener busquedas inmediatas acerca de ventaso arquiler de diferentes propiedades como lo son casas, apartamentos, lotes,locales, fincas, haciendolo mas practico al hora de buscar la zona**  
 __This will also be bold__
 
 _You **can** combine them_
 
-## Lists
+## Lista
 
-### Unordered
+### Tipo de usuario
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
+* Cliente1
+* Vendedor2(Registar)
+* Adminis3
+
 
 ### Ordered
 
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
+1. Cliente1
+2. vendedor2
+3. Administrador3
 
-## Images
 
-![This is an alt text.](/image/sample.webp "This is a sample image.")
 
-## Links
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
-## Blockquotes
+## Primer y segubda barra 
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Tables
-
-| Left columns  | Right columns |
+|tipo de negocio|  Tipo de aviso
 | ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+| venta |    casa |
+| Arquiler|Apartam
+| | lotes  |
+| | locales
+| | Fincas |
 
-## Blocks of code
+## Primer y segubda barra 
 
-```
-let message = 'Hello world';
-alert(message);
-```
+|zona norte|  zona sur
+| ------------- |:-------------:|
+| Aranjuez |Envigado|
+| Bello|itagui
+| Castilla  |sabaneta|
+| san javier| Estrella|
 
-## Inline code
 
-This web site is using `markedjs/marked`.
+
+
